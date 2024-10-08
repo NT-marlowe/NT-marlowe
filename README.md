@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m `NT-marlowe`
 - 👀 I’m interested in security, computer networking, and system programming.
-- 🌱 I’m currently conducting research into malware detection system with eBPF.
+- 🌱 I’m currently conducting research into ransomware recovery system with eBPF.
 - 📫 How to reach me : please send me a DM at X (former Twitter).
 
 <!---
