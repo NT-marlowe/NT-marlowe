@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Recent Activities
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=NT-marlowe&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=NT-marlowe&theme=tokyo-night&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## Languages
 
