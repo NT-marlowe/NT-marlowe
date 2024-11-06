@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 - ransomware defense
     - especially data recovery
 - WASM
+    - I understand almost nothing about WASM: just interested :)
 - container
 
 ## Recent Activities
